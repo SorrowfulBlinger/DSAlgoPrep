@@ -1,0 +1,6 @@
+﻿  DSAlgoPrep.cpp
+c:\users\purushot\source\repos\dsalgoprep\dsalgoprep\wordladderdfs.h(103): warning C4018: '<': signed/unsigned mismatch
+c:\users\purushot\source\repos\dsalgoprep\dsalgoprep\wordladderdfs.h(172): warning C4018: '<': signed/unsigned mismatch
+c:\users\purushot\source\repos\dsalgoprep\dsalgoprep\stablematching.h(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\purushot\source\repos\dsalgoprep\dsalgoprep\stablematching.h(45): warning C4018: '<': signed/unsigned mismatch
+  DSAlgoPrep.vcxproj -> C:\Users\purushot\source\repos\DSAlgoPrep\Debug\DSAlgoPrep.exe
